@@ -158,6 +158,7 @@ static float const ANIMATION_TIME = .2;
         _menuTableView.delegate = self;
         _menuTableView.dataSource = self;
         _menuTableView.showsVerticalScrollIndicator = NO;
+        _menuTableView.bounces = NO;
         _menuTableView.rowHeight = 50;
         _menuTableView.layer.cornerRadius = 5;
         _menuTableView.layer.masksToBounds = YES;

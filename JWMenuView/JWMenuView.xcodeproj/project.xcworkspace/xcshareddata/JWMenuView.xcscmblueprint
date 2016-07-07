@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "350A337FE9C5FD235C0E87A9121B66082611CAEF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "350A337FE9C5FD235C0E87A9121B66082611CAEF" : 0,
+    "33F2CC810A660AA79A5E8A407EBF91CCA86478FC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "33AA52B5-61B1-45B8-A132-39B62A765F8C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "350A337FE9C5FD235C0E87A9121B66082611CAEF" : "JWMenuView\/",
+    "33F2CC810A660AA79A5E8A407EBF91CCA86478FC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JWMenuView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JWMenuView\/JWMenuView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lll1024\/ShopCartMVVMDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "33F2CC810A660AA79A5E8A407EBF91CCA86478FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lll1024\/JWMenuView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "350A337FE9C5FD235C0E87A9121B66082611CAEF"
+    }
+  ]
+}
